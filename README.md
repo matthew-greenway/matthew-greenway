@@ -2,14 +2,15 @@
 Oh Hey there 👋, I’m Matt
 </h1>
 
-<div alight="center">
-  <img src="https://preview.redd.it/yp04p2utore81.gif?format=mp4&s=5a0812c68fc4d1356964b2578e73b2a93de97827" width="600" height="300"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400" height="300"/>
              </div>
 
 <h2>
 About Me:
 </h2>
 
+- ✋ Michigan Native
 - :man_student: I am a third year Computer Science student at Clemson
 - :man_technologist: I am in Clemson's co-op program and work at Accenture
 - :running_man: Running is my main hobby and I am training for a half-marathon in the spring
@@ -30,3 +31,4 @@ About Me:
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=matthew-greenway&style=flat-square&color=blue" alt=""/>
 </div>                                                                                                             
+
